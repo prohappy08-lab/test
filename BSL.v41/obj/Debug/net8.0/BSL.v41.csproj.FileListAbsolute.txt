@@ -103,3 +103,4 @@ C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41\obj\Debug\net8.0\refint\BSL.v41.d
 C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41\obj\Debug\net8.0\BSL.v41.pdb
 C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41\obj\Debug\net8.0\BSL.v41.genruntimeconfig.cache
 C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41\obj\Debug\net8.0\ref\BSL.v41.dll
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41\obj\Debug\net8.0\BSL.v41.sourcelink.json
