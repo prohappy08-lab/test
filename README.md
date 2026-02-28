@@ -30,3 +30,4 @@ Based on [VeloBrawl](https://github.com/XidMods05/brawl-stars-v36-private-server
 ![BSL.v41](https://raw.githubusercontent.com/LkPrtctrd/BSL-V41/main/Screenshots/battle.png)
 "# isco" 
 "# test" 
+"# test4" 
