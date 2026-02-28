@@ -1,0 +1,281 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "BSL.v41.Custom.Stream/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BSL.v41.Titan": "1.0.0",
+          "BSL.v41.Tools": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BSL.v41.Custom.Stream.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BSL.v41.Custom.Stream.dll": {}
+        }
+      },
+      "BSL.v41.General/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BSL.v41.Logic": "1.0.0",
+          "BSL.v41.Proxy": "1.0.0",
+          "BSL.v41.StaticService": "1.0.0",
+          "BSL.v41.Supercell.Titan": "1.0.0",
+          "BSL.v41.Titan": "1.0.0",
+          "BSL.v41.Tools": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BSL.v41.General.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BSL.v41.General.dll": {}
+        }
+      },
+      "BSL.v41.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BSL.v41.Custom.Stream": "1.0.0",
+          "BSL.v41.Supercell.Titan": "1.0.0",
+          "BSL.v41.Titan": "1.0.0",
+          "BSL.v41.Tools": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BSL.v41.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BSL.v41.Logic.dll": {}
+        }
+      },
+      "BSL.v41.Proxy/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BSL.v41.Logic": "1.0.0",
+          "BSL.v41.Titan": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BSL.v41.Proxy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BSL.v41.Proxy.dll": {}
+        }
+      },
+      "BSL.v41.StaticService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BSL.v41.Titan": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BSL.v41.StaticService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BSL.v41.StaticService.dll": {}
+        }
+      },
+      "BSL.v41.Supercell.Titan/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BSL.v41.Titan": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BSL.v41.Supercell.Titan.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BSL.v41.Supercell.Titan.dll": {}
+        }
+      },
+      "BSL.v41.Titan/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "bin/placeholder/BSL.v41.Titan.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BSL.v41.Titan.dll": {}
+        }
+      },
+      "BSL.v41.Tools/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BSL.v41.Supercell.Titan": "1.0.0",
+          "BSL.v41.Titan": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BSL.v41.Tools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BSL.v41.Tools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "BSL.v41.Custom.Stream/1.0.0": {
+      "type": "project",
+      "path": "../BSL.v41.Custom.Stream/BSL.v41.Custom.Stream.csproj",
+      "msbuildProject": "../BSL.v41.Custom.Stream/BSL.v41.Custom.Stream.csproj"
+    },
+    "BSL.v41.General/1.0.0": {
+      "type": "project",
+      "path": "../BSL.v41.General/BSL.v41.General.csproj",
+      "msbuildProject": "../BSL.v41.General/BSL.v41.General.csproj"
+    },
+    "BSL.v41.Logic/1.0.0": {
+      "type": "project",
+      "path": "../BSL.v41.Logic/BSL.v41.Logic.csproj",
+      "msbuildProject": "../BSL.v41.Logic/BSL.v41.Logic.csproj"
+    },
+    "BSL.v41.Proxy/1.0.0": {
+      "type": "project",
+      "path": "../BSL.v41.Proxy/BSL.v41.Proxy.csproj",
+      "msbuildProject": "../BSL.v41.Proxy/BSL.v41.Proxy.csproj"
+    },
+    "BSL.v41.StaticService/1.0.0": {
+      "type": "project",
+      "path": "../BSL.v41.StaticService/BSL.v41.StaticService.csproj",
+      "msbuildProject": "../BSL.v41.StaticService/BSL.v41.StaticService.csproj"
+    },
+    "BSL.v41.Supercell.Titan/1.0.0": {
+      "type": "project",
+      "path": "../BSL.v41.Supercell.Titan/BSL.v41.Supercell.Titan.csproj",
+      "msbuildProject": "../BSL.v41.Supercell.Titan/BSL.v41.Supercell.Titan.csproj"
+    },
+    "BSL.v41.Titan/1.0.0": {
+      "type": "project",
+      "path": "../BSL.v41.Titan/BSL.v41.Titan.csproj",
+      "msbuildProject": "../BSL.v41.Titan/BSL.v41.Titan.csproj"
+    },
+    "BSL.v41.Tools/1.0.0": {
+      "type": "project",
+      "path": "../BSL.v41.Tools/BSL.v41.Tools.csproj",
+      "msbuildProject": "../BSL.v41.Tools/BSL.v41.Tools.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BSL.v41.General >= 1.0.0",
+      "BSL.v41.Titan >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kleemann\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kleemann\\Desktop\\BSL.v41-main\\BSL.v41.Service\\BSL.v41.Service.csproj",
+      "projectName": "BSL.v41.Service",
+      "projectPath": "C:\\Users\\kleemann\\Desktop\\BSL.v41-main\\BSL.v41.Service\\BSL.v41.Service.csproj",
+      "packagesPath": "C:\\Users\\kleemann\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kleemann\\Desktop\\BSL.v41-main\\BSL.v41.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kleemann\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\kleemann\\Desktop\\BSL.v41-main\\BSL.v41.General\\BSL.v41.General.csproj": {
+              "projectPath": "C:\\Users\\kleemann\\Desktop\\BSL.v41-main\\BSL.v41.General\\BSL.v41.General.csproj"
+            },
+            "C:\\Users\\kleemann\\Desktop\\BSL.v41-main\\BSL.v41.Titan\\BSL.v41.Titan.csproj": {
+              "projectPath": "C:\\Users\\kleemann\\Desktop\\BSL.v41-main\\BSL.v41.Titan\\BSL.v41.Titan.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.418/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

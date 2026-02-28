@@ -1,0 +1,17 @@
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\bin\Debug\net8.0\BSL.v41.Titan.exe
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\bin\Debug\net8.0\BSL.v41.Titan.deps.json
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\bin\Debug\net8.0\BSL.v41.Titan.runtimeconfig.json
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\bin\Debug\net8.0\BSL.v41.Titan.dll
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\bin\Debug\net8.0\BSL.v41.Titan.pdb
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\obj\Debug\net8.0\BSL.v41.Titan.csproj.AssemblyReference.cache
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\obj\Debug\net8.0\BSL.v41.Titan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\obj\Debug\net8.0\BSL.v41.Titan.AssemblyInfoInputs.cache
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\obj\Debug\net8.0\BSL.v41.Titan.AssemblyInfo.cs
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\obj\Debug\net8.0\BSL.v41.Titan.csproj.CoreCompileInputs.cache
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\obj\Debug\net8.0\BSL.v41..755F1822.Up2Date
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\obj\Debug\net8.0\BSL.v41.Titan.dll
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\obj\Debug\net8.0\refint\BSL.v41.Titan.dll
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\obj\Debug\net8.0\BSL.v41.Titan.pdb
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\obj\Debug\net8.0\BSL.v41.Titan.genruntimeconfig.cache
+C:\Users\kleemann\Desktop\BSL.v41-main\BSL.v41.Titan\obj\Debug\net8.0\ref\BSL.v41.Titan.dll

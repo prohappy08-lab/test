@@ -1,0 +1,76 @@
+{
+  "1": {
+    "_accountCreatedDate": "2026.02.26-(четверг) 17:59:34",
+    "_accountId": 1,
+    "_allianceId": 0,
+    "_allianceMemberEntry": null,
+    "_avatarName": "mane",
+    "_homeBrawlerGlobalId": 16000000,
+    "_homeId": 0,
+    "_intValueEntryX": {},
+    "_intValueEntryY": {
+      "1": {
+        "Key": 1,
+        "Value": 41000038
+      }
+    },
+    "_languageLaserFactory": 1,
+    "_lastCreateAllianceTime": 0,
+    "_lastOnlineTime": 1772191849,
+    "_logicOfferBundleList": [],
+    "_maxTrophies": 0,
+    "_nameChangeCount": 0,
+    "_nameChangeEndTime": 0,
+    "_nameColorGlobalId": 43000000,
+    "_nameSetByUser": true,
+    "_notificationFactoryIntraSignedId": 10,
+    "_passToken": "LB9b1fVSdP35ZBwPVGTuvKNhYdKrbFKaIerNpNxZB6uZs9dJYryYuUWwEGSv2",
+    "_playerAge": 999,
+    "_playerStatus": 0,
+    "_playerThumbnailGlobalId": 28000000,
+    "_playTimeSeconds": 2172,
+    "_sessionCount": 19,
+    "_startPlayTimeSeconds": 1772110774,
+    "_supportedCreator": "BSL-V41",
+    "_trophies": 0,
+    "_trophyRoadProgress": 1,
+    "_userIsAuthed": true
+  },
+  "2": {
+    "_accountCreatedDate": "2026.02.27-(пятница) 16:33:47",
+    "_accountId": 2,
+    "_allianceId": 0,
+    "_allianceMemberEntry": null,
+    "_avatarName": "mans",
+    "_homeBrawlerGlobalId": 16000000,
+    "_homeId": 0,
+    "_intValueEntryX": {},
+    "_intValueEntryY": {
+      "1": {
+        "Key": 1,
+        "Value": 41000038
+      }
+    },
+    "_languageLaserFactory": 1,
+    "_lastCreateAllianceTime": 0,
+    "_lastOnlineTime": 1772207480,
+    "_logicOfferBundleList": [],
+    "_maxTrophies": 0,
+    "_nameChangeCount": 0,
+    "_nameChangeEndTime": 0,
+    "_nameColorGlobalId": 43000000,
+    "_nameSetByUser": true,
+    "_notificationFactoryIntraSignedId": 20,
+    "_passToken": "HPZsePf9Jl6w7Xn3hw5pgULgd78JPUmrPx8eYYHJXKBmJi4918tbpHtp7kW1e",
+    "_playerAge": 999,
+    "_playerStatus": 0,
+    "_playerThumbnailGlobalId": 28000000,
+    "_playTimeSeconds": 600,
+    "_sessionCount": 13,
+    "_startPlayTimeSeconds": 1772192027,
+    "_supportedCreator": "BSL-V41",
+    "_trophies": 0,
+    "_trophyRoadProgress": 1,
+    "_userIsAuthed": true
+  }
+}
